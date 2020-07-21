@@ -27,7 +27,7 @@ The three models can be trained with:
 ## Results
 The models were validated by Cross-Validation with k-folds (k=10). The results are shown below.
 
-### Accuracies from Cross Valitation
+### Accuracies from Cross Validation
 Repetition | PCR | IgM | IgG
 ----|-------|-------|------
  1  | 0.644 | 0.568 | 0.639
