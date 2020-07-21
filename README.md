@@ -7,7 +7,7 @@ This project aims to predict the result of three kinds of exams that detects the
 
 It trains three feedforward neural networks with data from exams of the [Albert Einstein Israelite Hospital](https://en.wikipedia.org/wiki/Albert_Einstein_Israelite_Hospital), obtained from the COVID-19 Data Sharing/BR, available at [https://repositoriodatasharingfapesp.uspdigital.usp.br/](https://repositoriodatasharingfapesp.uspdigital.usp.br/). The preprocessed data can be found at `data/einstein.out.csv`.
 
-This is project for subject MAC0425 (artificial intelligence) at IME-USP. The final report (in Portuguese) can be found [here](doc/report.pdf).
+This is a project for the subject MAC0425 (artificial intelligence) at IME-USP. The final report (in Portuguese) can be found [here](doc/report.pdf).
 
 ## Instalation
 
