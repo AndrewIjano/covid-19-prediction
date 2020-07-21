@@ -1,10 +1,13 @@
 # :bar_chart: COVID-19 prediction
+![Maintenance](https://img.shields.io/maintenance/no/2020)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 
 This project aims to predict the result of three kinds of exams that detects the viral disease [COVID-19](https://pt.wikipedia.org/wiki/COVID-19): [PCR](https://en.wikipedia.org/wiki/Polymerase_chain_reaction), [IgM](https://en.wikipedia.org/wiki/Immunoglobulin_M) and [IgG](https://en.wikipedia.org/wiki/Immunoglobulin_G) tests. 
 
-It trains three feedforward neural networks with data from exams of the [Albert Einstein Israelite Hospital](https://en.wikipedia.org/wiki/Albert_Einstein_Israelite_Hospital). The preprocessed data can be found at `data/einstein.out.csv`.
+It trains three feedforward neural networks with data from exams of the [Albert Einstein Israelite Hospital](https://en.wikipedia.org/wiki/Albert_Einstein_Israelite_Hospital), obtained from the COVID-19 Data Sharing/BR, available at [https://repositoriodatasharingfapesp.uspdigital.usp.br/](https://repositoriodatasharingfapesp.uspdigital.usp.br/). The preprocessed data can be found at `data/einstein.out.csv`.
 
-This is project for subject MAC0425 (artificial intelligence) at IME-USP. The final report can be found [here](doc/report.pdf).
+This is project for subject MAC0425 (artificial intelligence) at IME-USP. The final report (in Portuguese) can be found [here](doc/report.pdf).
 
 ## Instalation
 
